@@ -10,3 +10,11 @@ it uses the simple logic where in every move winning condition is checking.
 
 # Advantage: 
 Easy to understand and write the code.
+
+# Coming Soon....
+1. Reset Button which reset the board at any time.
+2. Optimise the code and use the shorter condition.
+3. GUI will be more user friendly and attractive.
+4. Another Tic Tac Toe game using # HTML,CSS and JavaScript.
+5. Playing with AI.
+6. Reocrd the move and History.
